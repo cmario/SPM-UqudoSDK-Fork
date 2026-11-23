@@ -13,7 +13,7 @@ let package = Package(
             targets: ["UqudoSDKWrapper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/shield-ai-technology/shield-ptr-spm.git", exact: "2.1.0"),
+        .package(url: "https://github.com/shield-ai-technology/shield-ptr-spm.git", exact: "2.2.0"),
     ],
     targets: [
         .target(
